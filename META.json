@@ -1,0 +1,12 @@
+{
+    "description": "All letters posted on Coda.ir",
+    "source": [
+        "codal.ir"
+    ],
+    "nrows": null,
+    "ncols": null,
+    "colsNames": [
+        "Ticker",
+        "BaseTicker"
+    ]
+}
