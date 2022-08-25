@@ -1,10 +1,6 @@
 {
-    "description": "All letters posted on Coda.ir",
+    "description": ">All letters ever posted on [Codal.ir](https://www.codal.ir)",
     "source": [
         "codal.ir"
     ],
-    "nrows": null,
-    "ncols": null,
-    "colsNames": [
-    ]
 }
